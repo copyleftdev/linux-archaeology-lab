@@ -1,0 +1,10 @@
+code-generation
+document-qa
+function-calling
+image-understanding
+json-mode
+long-context
+math-reasoning
+multilingual
+streaming
+summarization

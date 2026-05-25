@@ -1,0 +1,10 @@
+
+   excess   whitespace   here
+
+multiple
+blank
+
+
+lines
+
+trailing spaces

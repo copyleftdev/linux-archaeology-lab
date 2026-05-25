@@ -1,0 +1,11 @@
+code-generation
+document-qa
+embeddings
+function-calling
+image-generation
+json-mode
+long-context
+math-reasoning
+rag-retrieval
+streaming
+summarization

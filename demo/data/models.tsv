@@ -1,0 +1,11 @@
+model	provider	params	context_k	license
+llama-3.1-8b	Meta	8B	128	Llama 3
+llama-3.1-70b	Meta	70B	128	Llama 3
+mistral-7b	Mistral AI	7B	32	Apache 2.0
+mixtral-8x7b	Mistral AI	47B	64	Apache 2.0
+gemma-2-9b	Google	9B	8	Gemma
+phi-3-mini	Microsoft	3.8B	128	MIT
+qwen2-7b	Alibaba	7B	128	Apache 2.0
+deepseek-r1	DeepSeek	671B	64	MIT
+claude-3-haiku	Anthropic	–	200	Commercial
+gpt-4o-mini	OpenAI	–	128	Commercial
