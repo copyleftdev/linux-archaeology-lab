@@ -1,5 +1,7 @@
 # linux-archaeology-lab
 
+[![Tip my tokens](https://tokentip.to/badge/copyleftdev.svg?logo=1)](https://tokentip.to/@copyleftdev)
+
 A companion repo for **"The Linux Commands You Forgot Exist"**.
 
 These aren't obscure one-liners for their own sake. They're pipe-and-stream primitives that were built before "AI workflow" was a phrase — and are more useful now than ever: timestamping agent logs, watching GPU memory, getting a progress bar on a 2000-row JSONL inference run, comparing two model output sets in one command.
